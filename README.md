@@ -104,19 +104,7 @@ public:
 
 ---
 
-<h2 align="center">🐍 04 / CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</div>
-
----
-
-<h2 align="center">🏆 05 / THE DSA ARENA</h2>
+<h2 align="center">🏆 04 / THE DSA ARENA</h2>
 
 <div align="center">
 
@@ -140,7 +128,7 @@ public:
 
 ---
 
-<h2 align="center">☁️ 06 / CERTIFICATIONS</h2>
+<h2 align="center">☁️ 05 / CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -154,7 +142,7 @@ public:
 
 ---
 
-<h2 align="center">🌐 07 / CONNECT WITH ME</h2>
+<h2 align="center">🌐 06 / CONNECT WITH ME</h2>
 
 <div align="center">
 
