@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:070B16,45:102B50,100:FF354F&text=PARAS%20JAIN&fontSize=75&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=247BFF&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:050816,40:102B50,100:FF354F&text=PARAS%20JAIN&fontSize=78&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=247BFF&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2000&pause=700&color=247BFF&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER;AI+%26+ML+ENTHUSIAST;BUILDING+THINGS+THAT+MATTER" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=700&color=247BFF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER;AI+%26+ML+ENTHUSIAST;BUILDING+THINGS+THAT+MATTER"/>
 
 <br/>
 
@@ -88,57 +88,7 @@ public:
 
 ---
 
-<h2 align="center">🚀 03 / FEATURED PROJECTS</h2>
-
-<div align="center">
-
-<a href="https://github.com/Parasjain1234">
-<img src="https://img.shields.io/badge/01-DIGITAL_PAYMENTS_PLATFORM-102B50?style=for-the-badge&logo=stripe&logoColor=white"/>
-</a>
-
-</div>
-
-### 💳 Digital Payments Platform
-
-- Secure JWT Authentication & OTP Verification.
-- Wallet Management & Peer-to-Peer Transfers.
-- Full Stack Application using Next.js and Express.js.
-- PostgreSQL, Prisma ORM and Docker.
-
-**Tech Stack:** `Next.js` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker`
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/02-RESTFUL_BACKEND_API-102B50?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
-
-### 🌐 RESTful Backend API
-
-- Modular MVC Architecture.
-- JWT Authentication & Authorization.
-- REST API Endpoints and CRUD Operations.
-- MongoDB Integration.
-
-**Tech Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/03-INTERNET_USAGE_CLUSTERING-102B50?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-### 🤖 Internet Usage Pattern Clustering System
-
-- Machine Learning-based User Behaviour Analysis.
-- Data Preprocessing & Feature Engineering.
-- Clustering & Data Visualization.
-
-**Tech Stack:** `Python` `Machine Learning` `Data Analysis`
-
----
-
-<h2 align="center">📊 04 / GITHUB COMMAND CENTER</h2>
+<h2 align="center">📊 03 / GITHUB COMMAND CENTER</h2>
 
 <div align="center">
 
@@ -154,7 +104,31 @@ public:
 
 ---
 
-<h2 align="center">🏆 05 / THE DSA ARENA</h2>
+<h2 align="center">🧊 04 / 3D CONTRIBUTION UNIVERSE</h2>
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 05 / CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Parasjain1234/Parasjain1234/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<h2 align="center">🏆 06 / THE DSA ARENA</h2>
 
 <div align="center">
 
@@ -189,7 +163,7 @@ public:
 
 ---
 
-<h2 align="center">☁️ 06 / CERTIFICATIONS</h2>
+<h2 align="center">☁️ 07 / CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -207,7 +181,7 @@ public:
 
 ---
 
-<h2 align="center">🌐 07 / CONNECT WITH ME</h2>
+<h2 align="center">🌐 08 / CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -225,7 +199,7 @@ public:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=160&section=footer"/>
 
 <h3>⚡ ENGINEERED WITH PASSION. POWERED BY CURIOSITY.</h3>
 
