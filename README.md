@@ -85,19 +85,7 @@ public:
 
 ---
 
-<h2 align="center">🧊 03 / 3D CONTRIBUTION UNIVERSE</h2>
-
-<div align="center">
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph"/>
-</div>
-
-<div align="center">
-<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitBlock"/>
-</div>
-
----
-
-<h2 align="center">📊 04 / GITHUB COMMAND CENTER</h2>
+<h2 align="center">📊 03 / GITHUB COMMAND CENTER</h2>
 
 <div align="center">
 
@@ -116,7 +104,7 @@ public:
 
 ---
 
-<h2 align="center">🐍 05 / CONTRIBUTION SNAKE</h2>
+<h2 align="center">🐍 04 / CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 <picture>
@@ -128,7 +116,7 @@ public:
 
 ---
 
-<h2 align="center">🏆 06 / THE DSA ARENA</h2>
+<h2 align="center">🏆 05 / THE DSA ARENA</h2>
 
 <div align="center">
 
@@ -152,7 +140,7 @@ public:
 
 ---
 
-<h2 align="center">☁️ 07 / CERTIFICATIONS</h2>
+<h2 align="center">☁️ 06 / CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -166,7 +154,7 @@ public:
 
 ---
 
-<h2 align="center">🌐 08 / CONNECT WITH ME</h2>
+<h2 align="center">🌐 07 / CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -189,4 +177,3 @@ public:
 **Thanks for visiting my profile! 🚀**
 
 </div>
-
