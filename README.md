@@ -1,10 +1,9 @@
- <div align="center">
 
-<!-- HERO SECTION -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:070B16,50:102B50,100:FF354F&text=PARAS%20JAIN&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=247BFF&strokeWidth=1" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:070B16,45:102B50,100:FF354F&text=PARAS%20JAIN&fontSize=75&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=247BFF&strokeWidth=2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=247BFF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER+%F0%9F%9A%80;FULL+STACK+DEVELOPER+%F0%9F%92%BB;COMPETITIVE+PROGRAMMER+%E2%9A%A1;AI+%26+ML+ENTHUSIAST+%F0%9F%A4%96;BUILDING+THINGS+THAT+MATTER." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2000&pause=700&color=247BFF&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER;AI+%26+ML+ENTHUSIAST;BUILDING+THINGS+THAT+MATTER" />
 
 <br/>
 
@@ -13,17 +12,17 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-070B16?style=flat-square&logo=github&logoColor=white)](https://github.com/Parasjain1234)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-070B16?style=flat-square&logo=linkedin&logoColor=247BFF)](https://www.linkedin.com/in/paras-jain-789057316/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-070B16?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/paras__jain1/)
+<a href="https://github.com/Parasjain1234">
+<img src="https://img.shields.io/github/followers/Parasjain1234?label=FOLLOWERS&style=for-the-badge&color=247BFF"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Parasjain1234&label=PROFILE+VISITORS&color=247BFF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Parasjain1234&label=PROFILE+VIEWS&color=FF354F&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `01 / WHO AM I`
+<h2 align="center">⚡ 01 / WHO AM I</h2>
 
 ```cpp
 class ParasJain {
@@ -55,89 +54,91 @@ public:
 
 ---
 
-## `02 / MY ARSENAL`
+<h2 align="center">⚡ 02 / MY ARSENAL</h2>
+
+<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
 
 <div align="center">
-
-### PROGRAMMING LANGUAGES
-
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c&theme=dark"/>
+</div>
 
-### FRONTEND ENGINEERING
+<h3 align="center">🎨 FRONTEND ENGINEERING</h3>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+</div>
 
-### BACKEND ENGINEERING
+<h3 align="center">⚙️ BACKEND ENGINEERING</h3>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark"/>
+</div>
 
-### DATABASE & INFRASTRUCTURE
+<h3 align="center">🗄️ DATABASE & INFRASTRUCTURE</h3>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws&theme=dark"/>
+</div>
 
-### DEVELOPMENT TOOLS
+<h3 align="center">🛠️ DEVELOPMENT TOOLS</h3>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark"/>
-
 </div>
 
 ---
 
-## `03 / FEATURED PROJECTS`
+<h2 align="center">🚀 03 / FEATURED PROJECTS</h2>
 
 <div align="center">
 
 <a href="https://github.com/Parasjain1234">
-<img src="https://img.shields.io/badge/PROJECT_01-DIGITAL_PAYMENTS_PLATFORM-102B50?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/01-DIGITAL_PAYMENTS_PLATFORM-102B50?style=for-the-badge&logo=stripe&logoColor=white"/>
 </a>
 
 </div>
 
-**Digital Payments Platform**
+### 💳 Digital Payments Platform
 
-- Secure JWT authentication and OTP verification.
-- Wallet management and peer-to-peer transfers.
-- Full-stack architecture using Next.js and Express.js.
+- Secure JWT Authentication & OTP Verification.
+- Wallet Management & Peer-to-Peer Transfers.
+- Full Stack Application using Next.js and Express.js.
 - PostgreSQL, Prisma ORM and Docker.
 
-**Tech:** Next.js • Node.js • Express • PostgreSQL • Prisma • Docker
+**Tech Stack:** `Next.js` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker`
 
 ---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT_02-RESTFUL_BACKEND_API-102B50?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/02-RESTFUL_BACKEND_API-102B50?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
-**RESTful Backend API**
+### 🌐 RESTful Backend API
 
-- Modular MVC architecture.
-- JWT authentication and authorization.
-- REST API endpoints and CRUD operations.
-- MongoDB integration.
+- Modular MVC Architecture.
+- JWT Authentication & Authorization.
+- REST API Endpoints and CRUD Operations.
+- MongoDB Integration.
 
-**Tech:** Node.js • Express.js • MongoDB • JWT
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT_03-INTERNET_USAGE_CLUSTERING-102B50?style=for-the-badge&logo=python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/03-INTERNET_USAGE_CLUSTERING-102B50?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-**Internet Usage Pattern Clustering System**
+### 🤖 Internet Usage Pattern Clustering System
 
-- Machine learning-based user behaviour analysis.
-- Data preprocessing and feature engineering.
-- Clustering and data visualization.
+- Machine Learning-based User Behaviour Analysis.
+- Data Preprocessing & Feature Engineering.
+- Clustering & Data Visualization.
 
-**Tech:** Python • Machine Learning • Data Analysis
+**Tech Stack:** `Python` `Machine Learning` `Data Analysis`
 
 ---
 
-## `04 / GITHUB COMMAND CENTER`
+<h2 align="center">📊 04 / GITHUB COMMAND CENTER</h2>
 
 <div align="center">
 
@@ -145,15 +146,15 @@ public:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parasjain1234&layout=compact&hide_border=true&bg_color=070B16&title_color=247BFF&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Parasjain1234&theme=transparent&hide_border=true&ring=247BFF&fire=FF354F&currStreakLabel=247BFF&sideLabels=FFFFFF&dates=888888"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Parasjain1234&theme=transparent&hide_border=true&ring=247BFF&fire=FF354F&currStreakLabel=247BFF&sideLabels=FFFFFF&dates=888888"/>
 
 </div>
 
 ---
 
-## `05 / THE DSA ARENA`
+<h2 align="center">🏆 05 / THE DSA ARENA</h2>
 
 <div align="center">
 
@@ -180,15 +181,15 @@ public:
 
 </div>
 
-**My problem-solving toolkit:**
+### 🧠 Problem Solving Toolkit
 
-`Dynamic Programming` `Graphs` `Trees` `Binary Search` `Greedy`
+`Dynamic Programming` `Graphs` `Trees` `Binary Search`
 
-`Sliding Window` `BFS` `DFS` `DSU` `Recursion`
+`Greedy` `Sliding Window` `BFS` `DFS` `DSU` `Recursion`
 
 ---
 
-## `06 / CERTIFICATIONS`
+<h2 align="center">☁️ 06 / CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -206,7 +207,7 @@ public:
 
 ---
 
-## `07 / CONNECT WITH ME`
+<h2 align="center">🌐 07 / CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -224,9 +225,9 @@ public:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247BFF,100:FF354F&height=150&section=footer"/>
 
-### `ENGINEERED WITH PASSION. POWERED BY CURIOSITY.`
+<h3>⚡ ENGINEERED WITH PASSION. POWERED BY CURIOSITY.</h3>
 
 **Thanks for visiting my profile! 🚀**
 
